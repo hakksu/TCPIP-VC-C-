@@ -1,3 +1,0 @@
-﻿  Source.cpp
-D:\MES\TCPIP(VC-C#)\VC server\VcTcpIP-server\VcTcpIP-server\Source.cpp(34,9): warning C4101: 'iSendResult': 未參考的區域變數
-  VcTcpIP-server.vcxproj -> D:\MES\TCPIP(VC-C#)\VC server\VcTcpIP-server\Debug\VcTcpIP-server.exe
